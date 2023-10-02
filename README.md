@@ -1,4 +1,8 @@
-👋 Hi there! My name is Emil Erasmus. I am a Software Developer currently focussing on Web Development. My passions lie in creating new things and collaborating on projects. 
+## Hi there! I am Emil Erasmus
+
+## About me
+
+I am a junior Software Developer currently focussing on Web Development. My passions lie in creating new things and collaborating on projects. 
 
 ✨ I am proficient in HTML, CSS, JavaScript and Python. 
 
