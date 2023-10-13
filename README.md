@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a junior Software Developer currently focussing on Web Development. My passions lie in creating new things and collaborating on projects. 
+I am a junior Software Developer currently focusing on Web Development. My passions lie in learning new technologies and applying them to either new or on-going projects with a creative touch.
 
 - ✨ I am proficient in HTML, CSS, JavaScript and Python. 
 
