@@ -8,7 +8,7 @@ I am a junior Software Developer currently focusing on Web Development. My passi
 
 - 🌱 I’m currently learning the React framework.
 
-- 🎸 Outside of the tech world I enjoy playing music (my instruments are guitar, drums and flute), working out and spending time in nature.
+- 🎸 Outside of the tech world I enjoy playing music, working out and spending time in nature.
 
 ### How to reach me:
 
