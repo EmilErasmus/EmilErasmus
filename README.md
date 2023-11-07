@@ -6,7 +6,7 @@ I am a junior Software Developer currently focusing on Web Development. My passi
 
 - ✨ I am proficient in HTML, CSS, JavaScript and Python. 
 
-- 🌱 I’m currently learning the React framework.
+- 🌱 I am currently learning React.
 
 - 🎸 Outside of the tech world I enjoy playing music, working out and spending time in nature.
 
