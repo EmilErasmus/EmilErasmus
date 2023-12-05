@@ -4,9 +4,9 @@
 
 I am a junior Software Developer currently focusing on Web Development. My passions lie in learning new technologies and applying them to either new or on-going projects with a creative touch.
 
-- ✨ I am proficient in HTML, CSS, JavaScript and Python. 
+- ✨ I am proficient in HTML, CSS, JavaScript, Python and React. 
 
-- 🌱 I am currently learning React.
+- 🌱 I am currently learning TypeScript.
 
 - 🎸 Outside of the tech world I enjoy playing music, working out and spending time in nature.
 
