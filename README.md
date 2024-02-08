@@ -6,7 +6,7 @@ I am a junior software developer currently focusing on Web Development. My passi
 
 - ✨ I am proficient in HTML, CSS, JavaScript, Python and React. 
 
-- 🌱 I am currently learning php and CodeIgniter.
+- 🌱 I am currently learning PHP and CodeIgniter.
 
 - 🎸 Outside of the tech world I enjoy playing music, working out and spending time in nature.
 
