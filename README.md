@@ -2,11 +2,11 @@
 
 ## About me
 
-I am a junior Software Developer currently focusing on Web Development. My passions lie in learning new technologies and applying them to either new or on-going projects with a creative touch.
+I am a junior software developer currently focusing on Web Development. My passions lie in learning new technologies and applying them to either new or on-going projects with a creative touch.
 
 - ✨ I am proficient in HTML, CSS, JavaScript, Python and React. 
 
-- 🌱 I am currently learning TypeScript.
+- 🌱 I am currently learning php and CodeIgniter.
 
 - 🎸 Outside of the tech world I enjoy playing music, working out and spending time in nature.
 
